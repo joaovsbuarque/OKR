@@ -24,4 +24,8 @@
 
 ### 4. Staking no Site 
 
-* Poder fazer staking em nossos sites isso iria agregar muito valor mas o escopo acredito que vá além de 3 meses 
+* Poder fazer staking em nossos sites isso iria agregar muito valor mas o escopo acredito que vá além de 3 meses.
+
+### 5. Subscribe 
+
+* Pessoa salva o email se a pessoas quiser e recebe notícias de atualidade de novas adições para mining cosias do tipo como é feito em nosso app envios de mensagens de vez enquando com coisas.

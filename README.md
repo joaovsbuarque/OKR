@@ -22,10 +22,10 @@
 ![Captura de tela de 2021-08-25 16-26-36](https://user-images.githubusercontent.com/69541607/130852758-eeecd7c1-5899-4692-8a8e-2a8d9a8ebc80.png)
 ![Captura de tela de 2021-08-25 16-26-44](https://user-images.githubusercontent.com/69541607/130852769-30fb1ff9-41a7-4d30-a11c-18aeb5ec506a.png)
 
-### 4. Staking no Site 
+### 4. Staking no Site :pushpin:
 
 * Poder fazer staking em nossos sites isso iria agregar muito valor mas o escopo acredito que vá além de 3 meses.
 
-### 5. Subscribe 
+### 5. Subscribe :pushpin:
 
 * Pessoa salva o email se a pessoas quiser e recebe notícias de atualidade de novas adições para mining cosias do tipo como é feito em nosso app envios de mensagens de vez enquando com coisas.
